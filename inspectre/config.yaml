@@ -3,6 +3,7 @@ slug: "inspectre"
 version: "1.2.52-8"
 description: "LAN device discovery, fingerprinting, and security scanner"
 image: "thefunkygibbon/inspectre-addon-{arch}"
+init: false
 arch:
   - amd64
   - aarch64
