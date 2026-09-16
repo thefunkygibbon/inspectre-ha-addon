@@ -11,6 +11,6 @@ privileged:
   - NET_ADMIN
   - NET_RAW
 ingress: true
-ingress_port: 8080
+ingress_port: 3000
 options: {}
 schema: {}
