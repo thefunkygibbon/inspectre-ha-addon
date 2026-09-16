@@ -1,0 +1,16 @@
+name: "InSpectre"
+slug: "inspectre"
+version: "1.0.0"
+description: "LAN device discovery, fingerprinting, and security scanner"
+image: "thefunkygibbon/inspectre-addon-{arch}"
+arch:
+  - amd64
+  - aarch64
+host_network: true
+privileged:
+  - NET_ADMIN
+  - NET_RAW
+ingress: true
+ingress_port: 8080
+options: {}
+schema: {}
