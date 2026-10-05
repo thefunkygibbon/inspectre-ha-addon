@@ -1,6 +1,6 @@
 name: "InSpectre"
 slug: "inspectre"
-version: "1.2.53-9"
+version: "1.3.0-10"
 description: "LAN device discovery, fingerprinting, and security scanner"
 image: "thefunkygibbon/inspectre-addon-{arch}"
 init: false
